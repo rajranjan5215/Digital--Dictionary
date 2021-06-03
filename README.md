@@ -13,3 +13,6 @@ Digital Dictionnary  takes voice as input and return the meaning of the word in 
 3> Speech to Text<br />
 4> Browser automatoion (Using Selenium)<br />
 
+# Keep updating your packages
+1> APIs needs to be keep updating in a regular interval<br />
+2> Most common APIs needs to be updates are ChromeDriver and GTTS package.
